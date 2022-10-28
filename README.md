@@ -1,29 +1,8 @@
-# vueenvvars
+# vue-env-example
 
-This template should help get you started developing with Vue 3 in Vite.
+## Hi there,
+I'm trying to rebuild the functionality found in `src/composables/client.js` in Nuxt 3.
 
-## Recommended IDE Setup
+I want to be able to use an environment variable to create a global `FetchClient` *(defined in the same file)*.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Plz help lol.
